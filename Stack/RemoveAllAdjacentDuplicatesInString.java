@@ -1,3 +1,9 @@
+/*
+LeetCode: 1047
+Problem: Remove All Adjacent Duplicates In String
+Pattern: Stack
+Difficulty: Easy
+*/
 class Solution {
     public String removeDuplicates(String s) {
 
